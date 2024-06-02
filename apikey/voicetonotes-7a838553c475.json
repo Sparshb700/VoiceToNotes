@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voicetonotes",
+  "private_key_id": "7a838553c47538a5983011bb6e2da635a8d276ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbqH4V27b9V8ZJ\nwNvWgbaOk8LipkYNLQgC4NeFr+COY57uJlNtmpgal1kppBjel3Qyw6DElUrLRyH9\ntnt1bR1PArjM95HPsGPAurb2Aw2rC/4nQM2Y1cDOrYo3+PKAu93JMGSiGaMM7Gpc\n2FDpYohjHhExa2WkQPOFlZmMED178X0PTvGconVzTZDEC4cHxlvBHWwPi+BOXryz\ntSgpqTM1E7MK4SJDJqVTTgC69iPly4Xn1fDVB/tklO66WODjpkfJF6VoZBOpZVEb\nQqEcvSpvhZatFmrDYEJktZaOvvgvyZ2yH/BFOCqWYTXjsO7rOFPTasUGMUNlJC5j\ntkD/Wv9FAgMBAAECggEACrmPwmrKj2cSUveWTg/O58D3jw08y2CcajJatyvYkYb8\nptT+L5GUxFREQPG9Au01hN/kvla4+guTJHuDwyH7AHwkBn9STRiOrvNOcuHf+baQ\nUt0MrWig6bycRuIAt2z6SYfrjx2sFdJeO7ptzL7MveOO9LQ9IxWUkdIua6+cxOLR\nj0rGSwhU7TcfIrkNSqCH0lJLmqeyT613Aif7omLPI3t+akW8ekEqXwZnYtNGwXTP\nNVEDu2goxW6w7w1HcWiDj3TVWK+DHKCxueBY3KjLHccG0Cqo7DEIxIl7dcjXrR3z\nZf+KOen5xWcWaz5atHfVjnZ11H65IX9ciQcAFVv+awKBgQDXt3dHiE+bgx7WgJ8S\nRQwXJEHzLPucxEwYjQSkri2Vhg6UBSKg8bfVxu9vpkiscvoTKtidneU+kHzo2FFe\n/qMYNKh26wymEH2YGS9rxjiK3y+e+jh8LQrdB+FcUWYWz/h28KkFoCE9krHxUWFD\nksOhZfC37cD51xcHm3LU2L2QuwKBgQC4ueAFmAQMrSO8y4jNVZL7dUANBzotLkxu\nB7w7ku3LpUofhICjZDf7G0dFS/kXXjTSoNtc4talClLLInMVdRoJAGKM06MgJVii\n5MKiGrKOzoyHsIQCx1G91DYqdrQ3S7Y/2HUPsl9tLVzJ7KpTSDX+EYTObFeXEiXe\nOIPDcEiv/wKBgFzz4aIhSqxoQ9GKewEUX7FZHlH7ADD9JQ0vNuD/bQURTxbZX6Ka\nhezIXERwEsC8iqXXwJ+qei4LdMeg7u9QKlcz2aPkhP7J/FSeBaEbOSIeKhcHG2/m\nuNelnaZ6LNOHqjkWWr7h0XEG1UZ3GsJTa5kQpDmdaZo+5N2STlkJTCYhAoGAXgH6\nB9688NaMAWBzVkveaSnaVsb+zE9rhfNZz9eOPLz5Y+DCtmQiOSBAvPtU4JeIukgy\nWqr2ITeHuujlOF5HyZzwikqKEanv2bYhdu2vQQ3MZqFmDSPybXC5wBJ41EsrjIJT\n0JEuDxmuxvQyGf/9ujagJ4zrZm5N5zFLnQJfe3ECgYBCoAB1MWPLmPD6jqmiU7wP\nTrFkxumMqvuLRXo6KV7nWw16s8hyc/Ovifv1YrYFBCgnUnYbBBaibC0ur8lpmRAe\n7ck3iJjIy9hAPtpjV3Vvvrel8c+UMQp3XLSXeqHY0ZDLnY6CZpQ6NKVbqDojlblg\nYjqhyr1GGnfvzux+xx67Gw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sparsh@voicetonotes.iam.gserviceaccount.com",
+  "client_id": "115606648246582792975",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sparsh%40voicetonotes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
